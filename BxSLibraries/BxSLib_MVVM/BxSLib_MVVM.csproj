@@ -50,6 +50,7 @@
     <Compile Include="Code\AsyncCommand\IAsyncCommand.cs" />
     <Compile Include="Code\Common\NotifyPropertyChangedBase.cs" />
     <Compile Include="Code\Observable Collection\Class1.cs" />
+    <Compile Include="Code\Observable Collection\Class2.cs" />
     <Compile Include="Code\Task\NotifyTaskCompletion.cs" />
     <Compile Include="Code\View Model\ViewModelBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
