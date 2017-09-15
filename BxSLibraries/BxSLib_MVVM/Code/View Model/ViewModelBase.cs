@@ -3,7 +3,6 @@
 	using System.Runtime.CompilerServices;
 	//•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 	public abstract class ViewModelBase : NotifyPropertyChangedBase
-		//INotifyPropertyChanged
 		{
 
 			#region **[Definitions]**
